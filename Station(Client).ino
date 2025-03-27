@@ -3,7 +3,7 @@
 #include <WiFiClient.h>
 
 //Required credentials for connecting to the AP
-const char* ssid = "Sanchit's NodeMCU AP";
+const char* ssid = "Ayush's NodeMCU AP";
 const char* password = "123456789";
 
 //Different domain name with URL path for respective requests
