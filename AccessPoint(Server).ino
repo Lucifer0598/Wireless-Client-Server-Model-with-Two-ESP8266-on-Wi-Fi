@@ -4,7 +4,7 @@
 #include <Adafruit_BMP280.h>
 
 // Set access point network credentials
-const char* ssid = "Sanchit's NodeMCU AP";
+const char* ssid = "Ayush's NodeMCU AP";
 const char* password = "123456789";
 
 #define SEALEVELPRESSURE_HPA (1013.25)
